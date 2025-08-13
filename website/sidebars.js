@@ -314,6 +314,13 @@ const sidebar = {
       },
     },
     {
+      type: "category",
+      label: "Contracts",
+      items: [
+        "tutorials/contracts/handle-randomness",
+      ],
+    },
+    {
       type: 'html',
       value: '<hr/>',
     },
